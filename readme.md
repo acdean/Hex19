@@ -1,6 +1,8 @@
 A solver, written in Processing, for question 14 of the
 Royal Statistical Society's Christmas Quiz for 2018
 
+https://www.theguardian.com/science/datablog/2018/dec/15/royal-statistical-society-christmas-quiz-25th-anniversary-edition
+
 Q14. HEX 19 [6 points]
 
 Nathaniel lives on a small island. One weekend, after a barbecue,
