@@ -13,3 +13,5 @@ previously visited.) If Nathaniel’s stroll lasts for a total of
 19 steps, what is his most likely final location?
 
 This code does one walk per frame and generates a heat-map of the end points.
+
+![Example](Hex19_5878.png)
